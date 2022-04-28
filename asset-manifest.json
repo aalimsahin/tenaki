@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tenkai/static/css/main.a7b8a5e4.css",
-    "main.js": "/tenkai/static/js/main.09ce64dc.js",
+    "main.js": "/tenkai/static/js/main.367cb577.js",
     "static/js/787.40a3d34c.chunk.js": "/tenkai/static/js/787.40a3d34c.chunk.js",
     "index.html": "/tenkai/index.html",
     "main.a7b8a5e4.css.map": "/tenkai/static/css/main.a7b8a5e4.css.map",
-    "main.09ce64dc.js.map": "/tenkai/static/js/main.09ce64dc.js.map",
+    "main.367cb577.js.map": "/tenkai/static/js/main.367cb577.js.map",
     "787.40a3d34c.chunk.js.map": "/tenkai/static/js/787.40a3d34c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7b8a5e4.css",
-    "static/js/main.09ce64dc.js"
+    "static/js/main.367cb577.js"
   ]
 }
