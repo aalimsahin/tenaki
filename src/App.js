@@ -1,4 +1,5 @@
 // import sample from "./assets/real2.mp4";
+import React from 'react'
 import "./App.css";
 
 const  App = () => {
