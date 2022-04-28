@@ -13,7 +13,7 @@ const  App = () => {
   return (
     <div>
       <video id="my_video" className="video"  autoPlay loop >
-        <source  src="https://res.cloudinary.com/aalimsahin/video/upload/v1651110257/real2_c2tvcx.mp4" type="video/mp4" />
+        <source  src="https://res.cloudinary.com/dnccfnphy/video/upload/v1651112554/tenkainft_ay2ewf.mp4" type="video/mp4" />
       </video>
     </div>
   );
