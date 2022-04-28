@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+// import sample from "./assets/real2.mp4";
+import "./App.css";
 
-function App() {
+const  App = () => {
+
+  window.addEventListener("mousemove", () => {
+    var sample = document.getElementById("my_video");
+    sample.play();
+
+  })
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <video id="my_video" className="video"  autoPlay loop >
+        <source  src="https://res.cloudinary.com/aalimsahin/video/upload/v1651110257/real2_c2tvcx.mp4" type="video/mp4" />
+      </video>
     </div>
   );
 }
